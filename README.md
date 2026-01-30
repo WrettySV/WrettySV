@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm WrettySV
 
-<!--
-**WrettySV/WrettySV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build projects across **computer vision / ML**, **robotics simulation & navigation**, and **full‑stack / backend engineering**.  
+My GitHub includes work ranging from ML notebooks to Java/TypeScript coursework and infrastructure practice.
 
-Here are some ideas to get you started:
+### What I work on
+- **Computer Vision / ML**: segmentation and object-related tasks (training, experiments, notebooks)
+- **Robotics / Navigation**: simulation-based navigation projects and tooling
+- **Web Development**: JavaScript/TypeScript practice (AJAX/DOM) and frontend infrastructure exercises
+- **Backend / Java**: REST and backend coursework, collections/streams practice, and related tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Highlighted repositories (from my GitHub)
+- **MRI-Based-Brain-Tumor-Segmentation** — notebook-based ML segmentation work
+- **ObjectHunting** — CV/ML exploration in notebooks
+- **Habitat-Robotics-NavSim** — robotics navigation/simulation project
+- **JS-AJAX / js-ajax-dom / js-ajax-1** — AJAX + DOM practice projects
+- **frontend-infrastructure2** — frontend infrastructure homework/practice
+- **hh-school-2022-java-collections-stream-hw** — Java collections/streams exercises
+- **spring-boot-rest** — Spring Boot REST practice
+
+### Tech I touch (from projects here)
+- **Languages**: Python, Java, TypeScript/JavaScript
+- **Areas**: ML/CV, robotics simulation, REST APIs, frontend tooling
+
+### Contact
+- GitHub: https://github.com/WrettySV

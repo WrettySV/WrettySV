@@ -11,12 +11,8 @@ My GitHub includes work ranging from ML notebooks to Java/TypeScript coursework 
 
 ### Highlighted repositories (from my GitHub)
 - **MRI-Based-Brain-Tumor-Segmentation** — notebook-based ML segmentation work
-- **ObjectHunting** — CV/ML exploration in notebooks
+- **ObjectHunting** — CV/ML exploration
 - **Habitat-Robotics-NavSim** — robotics navigation/simulation project
-- **JS-AJAX / js-ajax-dom / js-ajax-1** — AJAX + DOM practice projects
-- **frontend-infrastructure2** — frontend infrastructure homework/practice
-- **hh-school-2022-java-collections-stream-hw** — Java collections/streams exercises
-- **spring-boot-rest** — Spring Boot REST practice
 
 ### Tech I touch (from projects here)
 - **Languages**: Python, Java, TypeScript/JavaScript

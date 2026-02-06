@@ -1,4 +1,4 @@
-## Hi, I'm WrettySV
+## Hi, I'm Svetlana Lukina
 
 I build projects across **computer vision / ML**, **robotics simulation & navigation**, and **full‑stack / backend engineering**.  
 My GitHub includes work ranging from ML notebooks to Java/TypeScript coursework and infrastructure practice.
@@ -17,6 +17,3 @@ My GitHub includes work ranging from ML notebooks to Java/TypeScript coursework 
 ### Tech I touch (from projects here)
 - **Languages**: Python, Java, TypeScript/JavaScript
 - **Areas**: ML/CV, robotics simulation, REST APIs, frontend tooling
-
-### Contact
-- GitHub: https://github.com/WrettySV

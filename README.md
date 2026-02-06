@@ -9,11 +9,11 @@ My GitHub includes work ranging from ML notebooks to Java/TypeScript coursework 
 - **Web Development**: JavaScript/TypeScript practice (AJAX/DOM) and frontend infrastructure exercises
 - **Backend / Java**: REST and backend coursework, collections/streams practice, and related tooling
 
-### Highlighted repositories (from my GitHub)
+### Highlighted repositories 
 - **MRI-Based-Brain-Tumor-Segmentation** — notebook-based ML segmentation work
 - **ObjectHunting** — CV/ML exploration
 - **Habitat-Robotics-NavSim** — robotics navigation/simulation project
 
-### Tech I touch (from projects here)
+### Tech I touch 
 - **Languages**: Python, Java, TypeScript/JavaScript
 - **Areas**: ML/CV, robotics simulation, REST APIs, frontend tooling

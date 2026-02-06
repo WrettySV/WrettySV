@@ -4,7 +4,7 @@ I build projects across **computer vision / ML**, **robotics simulation & naviga
 My GitHub includes work ranging from ML notebooks to Java/TypeScript coursework and infrastructure practice.
 
 ### What I work on
-- **Computer Vision / ML**: segmentation and object-related tasks (training, experiments, notebooks)
+- **Computer Vision / ML**: segmentation and object-related tasks
 - **Robotics / Navigation**: simulation-based navigation projects and tooling
 - **Web Development**: JavaScript/TypeScript practice (AJAX/DOM) and frontend infrastructure exercises
 - **Backend / Java**: REST and backend coursework, collections/streams practice, and related tooling

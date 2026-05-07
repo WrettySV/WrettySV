@@ -6,8 +6,6 @@ My GitHub includes work ranging from ML notebooks to Java/TypeScript coursework 
 ### What I work on
 - **Computer Vision / ML**: segmentation and object-related tasks
 - **Robotics / Navigation**: simulation-based navigation projects and tooling
-- **Web Development**: JavaScript/TypeScript practice (AJAX/DOM) and frontend infrastructure exercises
-- **Backend / Java**: REST and backend coursework, collections/streams practice, and related tooling
 
 ### Highlighted repositories 
 - **MRI-Based-Brain-Tumor-Segmentation** — notebook-based ML segmentation work
